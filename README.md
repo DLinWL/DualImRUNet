@@ -53,6 +53,11 @@ The dataset files are determined by the following flags:
 - `--eig_flag`: Eigenvector flag (currently only supports 1)
 
 
+### Dataset Download
+
+You can access the processed datasets from the shared Google Drive folder: [DualImRUNet Dataset](https://drive.google.com/drive/folders/191cNl3tK_vFsqBnLX0qwMcFM6ftdcXTF?usp=sharing).
+
+
 ## 📁 Project Structure
 
 ```
@@ -86,8 +91,8 @@ DualImRUNet/
 ```
 
 ## ✅ TODO
-- Upload quantization-related files.
-- Upload dataset files for the expected dataset root.
+- [ ] Upload quantization-related files.
+- [x] Upload dataset files for the expected dataset root.
 
 ## 🎯 Usage
 
